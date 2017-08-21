@@ -4,6 +4,7 @@ C# Runner Game built in Unity using Visual Studio
 
 C-sharp based infinite runner game being built with the Unity 5 game engine and developed using the Visual Studio IDE.
 
+Visit https://www.youtube.com/channel/UC71il3POdKIP8q7ICW28WcA to view a short preview of the game.
 
 -----
 References 
