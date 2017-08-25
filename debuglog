@@ -1,0 +1,30 @@
+'SkillsDemo_csharp' (Default Windows desktop 32-bit) #2 failed to build for Windows x86!
+
+CHANGES: https://developer.cloud.unity3d.com/build/orgs/moleigh/projects/skillsdemo_csharp/buildtargets/default-windows-desktop-32-bit/builds/2/changes
+
+THE LOG: https://developer.cloud.unity3d.com/build/orgs/moleigh/projects/skillsdemo_csharp/buildtargets/default-windows-desktop-32-bit/builds/2/log
+
+Summary: 5 warnings, 18 errors: 
+
+[Unity] Initialize engine version: 5.6.3f1 (d3101c3b8468)
+[Unity] -----CompilerOutput:-stdout--exitcode: 1--compilationhadfailure: True--outfile: Temp/Assembly-CSharp.dll
+[Unity] Compilation failed: 1 error(s), 0 warnings
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] -----CompilerOutput:-stdout--exitcode: 1--compilationhadfailure: True--outfile: Temp/Assembly-CSharp.dll
+[Unity] Compilation failed: 1 error(s), 0 warnings
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] -----CompilerOutput:-stdout--exitcode: 1--compilationhadfailure: True--outfile: Temp/Assembly-CSharp.dll
+[Unity] Compilation failed: 1 error(s), 0 warnings
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] Initialize engine version: 5.6.3f1 (d3101c3b8468)
+[Unity] -----CompilerOutput:-stdout--exitcode: 1--compilationhadfailure: True--outfile: Temp/Assembly-CSharp.dll
+[Unity] Compilation failed: 1 error(s), 0 warnings
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] Assets/Scripts/DestroyOffScreen.cs(10,1): error CS1525: Unexpected symbol `void'
+[Unity] UnityEngine.Debug:LogWarning(Object)
+[Unity] ERROR: There were no scenes configured to build! Please add a scene to the build using the Build Settings window of the Unity Editor.
+! build of 'default-windows-desktop-32-bit' failed. compile failed
+publishing finished successfully.
